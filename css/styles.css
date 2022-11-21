@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    margin-top: 0px;
+    margin-bottom: 0;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    
+}
+h3{
+    color: #11999E;
+    padding-top: 70px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+p{
+    margin-bottom: 0px;
+    
+}
+hr{
+    border-width: 5px;
+    border-style: dotted;
+    border-bottom-style: none;
+    width: 3%;
+    color: #66BFBF;
+    margin: 90px auto 90px;
+}
+.para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color:#66BFBF;
+    font-weight:normal;
+    
+}
+.mahamantra{
+    width: 27%;
+    margin: auto;
+}
+.top-container{
+    background-color: #e4f9f5;
+    padding: 20px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.topcloude{
+    position: relative; 
+    left: 300px; 
+    bottom: 60px;
+}
+.bottomcloude{
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+}
+
+.profile_img{
+    height: 200px;
+}
+.profile{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.contact-me{
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+    height: 5.5rem;
+}
+.skill-row{
+    margin: 100px auto 100px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.computer_img{
+    width: 25%;
+}
+.computer_img{
+    width: 25%;
+    padding-right: 30px;
+    float: left;
+}
+.chillies{
+    width: 25%;
+    padding-left: 30px;
+    float:right;
+
+}
+
+.skill1_des{
+    clear: left;
+}
+.skill2_des{
+    clear: right;
+}
+.footer-link{
+    line-height: 2;
+    padding-left: 20px;
+    color: #11999E;
+    font-size: 20px;
+}
+.bottom-container p{
+    color: #EAF6F6;
+}
+.btn{
+    line-height: 5;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+    background-color: #28658d;
+    text-decoration: none;
+    text-shadow: 2px 2px rgb(43, 36, 36);
+    text-shadow: springgreen;
+}
